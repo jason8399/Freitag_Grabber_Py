@@ -1,5 +1,5 @@
 {
-  "azureFunctions.deploySubpath": "Lab.zip",
+  "azureFunctions.deploySubpath": "Freitag_Grabber_Py.zip",
   "azureFunctions.pythonVenv": ".env",
   "azureFunctions.projectLanguage": "Python",
   "azureFunctions.projectRuntime": "~2",
